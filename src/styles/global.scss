@@ -1,5 +1,9 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
 
+*{
+  box-sizing: border-box;
+}
 body {
   margin: 0;
   height: 100%;
@@ -23,5 +27,5 @@ h1,h2,h3,h4,h5,h6{
   flex-wrap: nowrap;
 }
 
-$background: #62604B;
+$background: #513B23;
 $primary: #FBF8DE;

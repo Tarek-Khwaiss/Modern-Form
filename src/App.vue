@@ -1,5 +1,5 @@
 <template>
-  <ModernForm defaultForm></ModernForm>
+  <ModernForm :defaultForm="true"></ModernForm>
 </template>
 <script lang="ts">
 import { defineComponent } from 'vue'
